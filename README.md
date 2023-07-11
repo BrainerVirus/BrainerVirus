@@ -1,11 +1,9 @@
 <h1>👋 Hi I'm Cristhofer</h1> 
 <h2>A chilean software engineer and web developer</h2>
 <ul>
-<li>👀 I’m interested in IT and reading</li>
-<li>🌱 I’m currently working on erp and my personal projects</li>
-<li>🥅 Become a senior developer capable of resole any problem upfront</li>
-<li>💞️ I’m looking to collaborate with other developers to create awesome things!</li>
-<li>📫 Let's talk cristhoferpincetti@outlook.com</li>
+<li>👀 I’m interested in dev web, reading and films</li>
+<li>🌱 I’m currently working on erp at my workplace and at home on my personal projects</li>
+<li>💞️ I love solving problems</li>
 </ul>
 
 <h1>Some tool and technologies I use</h1>
